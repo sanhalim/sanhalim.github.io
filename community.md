@@ -1,3 +1,7 @@
+layout: page
+title: "Community Guidelines"
+permalink: /guidelines/
+
 # Community Guidelines
 
 Thanks for joining Anecdote! We hope you have an incredible time exploring real, vulnerable stories from people all over the world. Before you get started, we want to remind you of our community guidelines. 
